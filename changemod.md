@@ -2,3 +2,4 @@
 	- first task에 새로운 test.rtf를 생성하고 새로운 문구를 적음
         	- 마스터 브랜치 없어서 다시 넣음
 	- second task에서 py의 내용을 수정 + 이거 rtf에서 md로 전환
+	- thrid task에서 py내용 추가
